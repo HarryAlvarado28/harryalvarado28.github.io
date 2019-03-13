@@ -1,3 +1,5 @@
-## mypage
+## El CV
 
-Website Personal, you can see it in https://harry2alvarado8.github.io
+Este es mi intento por desarrollar un CV Profesional. :alien:
+
+Puedes visitarlo con el enlace https://harryalvarado28.github.io :copyright: :registered:
