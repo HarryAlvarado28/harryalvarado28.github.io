@@ -30,7 +30,7 @@ Author: themehippo.com
 10. Portfolio / .portfolio-section
 11. Recent Reviews / .review-section
 12. Contact / .section-contact
-13. footer 
+13. footer
 
 ------------------------------------*/
 
@@ -772,3 +772,19 @@ button:focus,
     text-align : center;
     top        : 65%;
     }
+
+/* ---------------------------------------------- /*
+ * Agregando modelo de filas y columnas
+/* ---------------------------------------------- */
+
+.box {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.box-item{
+  margin: 5px;
+}
+.box-item-rl10{
+  margin: 0px 10px 0px 10px;
+}
