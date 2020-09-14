@@ -1,6 +1,6 @@
-## El CV
+## harryalvarado28.github.io
 
-Este es mi intento por desarrollar un CV Profesional. :alien:
+Mi pequeño espacio de internet 
 
 Puedes visitarlo con el enlace https://harryalvarado28.github.io :copyright: :registered:
 
