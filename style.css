@@ -11,3 +11,11 @@ h6 {
 i.no {
   color: red;
 }
+
+.text-center {
+  text-align: center;
+}
+
+.mb-50 {
+  margin-bottom: 50px;
+}
